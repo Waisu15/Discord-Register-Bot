@@ -1,1 +1,3 @@
 # Discord-Register-Bot
+
+> Yakında!
