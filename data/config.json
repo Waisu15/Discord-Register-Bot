@@ -1,0 +1,44 @@
+{
+"BOT": {
+"prefix": "Prefix",
+"admin": "DeveloperID",
+"token": "BotToken"
+},
+
+"SETTİNGS": {
+"tag": "Tag",
+
+"red": "FF0000",
+"color": "RANDOM",
+"boyscolor": "08DBBf",
+"girlcolor": "DD08D3",
+
+"server": "ServerID",
+
+"log": "LogChannelsID",
+"chat": "ChatChannelsID",
+"rules": "RulesChannelsID",
+"channels": "WelcomeChannelsID",
+"botseskanal": "BotVoiceChannelsID",
+"confirmation": "ConfirmationChannelsID",
+
+"tagrol": "TaggesRolesID",
+"register": "RegisterHammerID",
+"kayıtsız": "KayıtsızRolesID",
+
+"kız": "KızRolesID",
+"kız2": "Kız2RolesID",
+"kız3": "Kız3RolesID",
+
+"erkek": "ErkekRolesID",
+"erkek2": "Erkek2RolesID",
+"erkek3": "Erkek3RolesID",
+
+"status": ["Developer Waisu", "Sokak Kodu 242"]
+},
+
+"EMOJİ": {
+"tik": "✅",
+"çarpı": "❌"
+}
+}
