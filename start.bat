@@ -1,5 +1,5 @@
 echo off
-title Base 242
+title Waisu Register Bot
 color a
 cls
 :a
