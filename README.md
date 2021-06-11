@@ -1,6 +1,6 @@
 # **Bilgilendirme**
 
-**Bu Altyapı [Waisu#1921](https://discord.gg/rXn5nZr2Fw) Tarafından Hazırlanmıştır. Altyapının Çalınması Veya Satılması Durumunda Gerekli İşlemler Yapılacaktır.**
+**Bu Altyapı [Waisu#0015](https://discord.gg/rXn5nZr2Fw) Tarafından Hazırlanmıştır. Altyapının Çalınması Veya Satılması Durumunda Gerekli İşlemler Yapılacaktır.**
 
 # **Kurulum**
 
